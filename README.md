@@ -35,7 +35,7 @@ Authorized users are able to:
 
 - JDK 11
 - Maven
-- MySQL 8.0.24
+- MySQL 8.0.22
 - JDBC
 - Java Servlet API 4.0.1
 - Tomcat 9.0.50
